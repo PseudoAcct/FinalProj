@@ -1,3 +1,0 @@
-# DataStructFinalProj
-
-lol hi!
